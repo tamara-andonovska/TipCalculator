@@ -105,7 +105,6 @@
 		5C9D8F192C387EC5001E8A01 /* NSAttributedString+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSAttributedString+Extensions.swift"; sourceTree = "<group>"; };
 		5C9D8F1C2C388E8E001E8A01 /* Double+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extensions.swift"; sourceTree = "<group>"; };
 		5C9D8F1E2C39E5B4001E8A01 /* MVVMPracticeProject.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = MVVMPracticeProject.xctestplan; sourceTree = "<group>"; };
-		5C9D8F1F2C3AF8E9001E8A01 /* MVVMAndUIKitNotes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MVVMAndUIKitNotes.md; sourceTree = "<group>"; };
 		5CE1FF2E2C3306F700DCDD5F /* UIView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
 		5CE1FF302C330AE300DCDD5F /* AmountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountView.swift; sourceTree = "<group>"; };
 		5CE1FF322C330E4900DCDD5F /* UIStackView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIStackView+Extensions.swift"; sourceTree = "<group>"; };
@@ -178,7 +177,6 @@
 				5C34BB372C0B55690036EA70 /* Assets.xcassets */,
 				5C34BB392C0B55690036EA70 /* LaunchScreen.storyboard */,
 				5C34BB3C2C0B55690036EA70 /* Info.plist */,
-				5C9D8F1F2C3AF8E9001E8A01 /* MVVMAndUIKitNotes.md */,
 			);
 			path = MVVMPracticeProject;
 			sourceTree = "<group>";
