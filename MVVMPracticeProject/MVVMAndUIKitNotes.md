@@ -2,12 +2,14 @@
 
 ## **MVVM and UIKit**
 
-**Model**
-Not really used here, since it's a simple app. The two files in models are not really models in true MVVM style.
+**Model**  
+Not really used here, since it's a simple app. The two files in models are not really models in true MVVM style.  
 Why? Because they don't define or represent the data that the View and ViewModel will use.
-**View** = UIViewController in our case.
+
+**View** = UIViewController in our case.  
 As dumb as possible. Should only contain the UI.
-**ViewModel**
+
+**ViewModel**  
 The brain, contains all the business logic.
 
 ## **How to implement MVVM with UIKit?**
