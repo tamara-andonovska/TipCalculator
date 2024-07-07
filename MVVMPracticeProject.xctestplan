@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "95CEC4EE-E99A-4871-A95E-A52D9ECE20EF",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MVVMPracticeProject.xcodeproj",
+      "identifier" : "5C34BB2A2C0B55680036EA70",
+      "name" : "MVVMPracticeProject"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MVVMPracticeProject.xcodeproj",
+        "identifier" : "5C34BB402C0B55690036EA70",
+        "name" : "MVVMPracticeProjectTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MVVMPracticeProject.xcodeproj",
+        "identifier" : "5C34BB4A2C0B55690036EA70",
+        "name" : "MVVMPracticeProjectUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
